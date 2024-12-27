@@ -1,10 +1,8 @@
 # custom-device-emulation-chrome
 - add & edit something -> Fork & PR.
-- Have You Problem ? [create Issue](https://github.com/amirshnll/custom-device-emulation-chrome/issues/new).
-- [Send Feedback](mailto:amirsh.nll@gmail.com)
+- Have You Problem ? [create Issue](https://github.com/psnwd/custom-device-emulation-chrome/issues/new).
 
-<br />
-
+---
 
 ## Device Information
 
@@ -90,8 +88,10 @@ Apple iPhone 6 Plus | 414 | 736 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 lik
 Red Hydrogen One | 412 | 732 | 3.5 | Mozilla/5.0 (Linux; Android 8.1.0; H1A1000 Build/H1A1000.010ho.01.01.01r.089) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36 |
 Xiaomi Mi 11i | 360 | 800 | 3 | - |
 Xiaomi 12 - 2022 | 360 | 800 | 3 | - |
+Xiaomi Mi 11 Ultra | 412 | 915 | 3 | Mozilla/5.0 (Linux; Android 11; Mi 11 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36 |
 Huawei P30 PRO | 360 | 780 | 3 | - |
 OnePlus Nord 2 | 412 | 915 | 2.625 | - |
+OnePlus 10 Pro | 412 | 915 | 3 | Mozilla/5.0 (Linux; Android 12; OnePlus 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36 |
 OPPO Find X3 PRO | 360 | 804 | 4 | - |
 Samsung Galaxy S22+ - 2022 | 360 | 780 | 3 | - |
 Samsung Galaxy S22 ULTRA - 2022 | 360 | 772 | 4 | - |
@@ -117,14 +117,24 @@ Samsung Galaxy Note | 400 | 640 | 2 | Mozilla/5.0 (Linux; U; Android 2.3; en-us;
 Samsung Galaxy S III, Galaxy Nexus | 360 | 640 | 2 | Mozilla/5.0 (Linux; U; Android 4.0; en-us; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 |
 Samsung Galaxy S, S II, W | 320 | 533 | 1.5 | Mozilla/5.0 (Linux; U; Android 2.1; en-us; GT-I9000 Build/ECLAIR) AppleWebKit/525.10+ (KHTML, like Gecko) Version/3.0.4 Mobile Safari/523.12.2 |
 Samsung Galaxy S4 | 360 | 640 | 3 | Mozilla/5.0 (Linux; Android 4.2.2; GT-I9505 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36 |
+iPhone 13 Pro Max | 430 | 932 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/537.36 |
+iPhone 13 Pro | 430 | 932 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/537.36 |
+iPhone 13 | 390 | 844 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/537.36 |
+iPhone 12 Pro Max | 430 | 932 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/537.36 |
+iPad Pro 11 (2021) | 834 | 1194 | 2.5 | Mozilla/5.0 (Linux; U; Android 10; SM-T720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36 |
 Samsung Galaxy Tab S3 | 768 | 1024 | 2 | Mozilla/5.0 (Linux; Android 7.0; SM-T827V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Safari/537.36 |
 Samsung Galaxy Tab S4 | 1138 | 712 | 2.25 | Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Safari/537.36 |
 Samsung Galaxy Tab 7.7, 8.9, 10.1 | 1280 | 800 | 1 | Mozilla/5.0 (Linux; U; Android 2.2; en-us; SCH-I800 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 |
+Samsung Galaxy Tab S8 | 512 | 768 | 2.5 | Mozilla/5.0 (Linux; Android 12; SM-T730) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36 |
+Samsung Galaxy Tab S7 | 512 | 768 | 2.5 | Mozilla/5.0 (Linux; Android 10; SM-T870) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36 |
+Samsung Galaxy Tab S2 8.0 | 360 | 640 | 2 | Mozilla/5.0 (Linux; Android 7.0; SM-T715) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36 |
 Samsung Galaxy Tab | 1024 | 600 | 1 | Mozilla/5.0 (Linux; U; Android 2.2; en-us; SCH-I800 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 |
 Samsung Galaxy Note 8 | 412 | 846 | 3.5 | Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-N950U Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.2 Chrome/56.0.2924.87 Mobile Safari/537.36 |
 Samsung Galaxy S8 | 360 | 740 | 3 | Mozilla/5.0 (Linux; Android 7.0; SM-G950U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 |
 Samsung Galaxy S8+ | 412 | 846 | 3.5 | Mozilla/5.0 (Linux; Android 7.0; SM-G955U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 |
 Samsung Galaxy S7 | 360 | 640 | 4 | Mozilla/5.0 (Linux; Android 6.0.1; SM-G935V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36 |
+Google Pixel 7 | 412 | 915 | 3 | Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36 |
+Google Pixel 6 Pro | 412 | 915 | 3 | Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36 |
 Google Pixel 4 | 353 | 745 | 3 | Mozilla/5.0 (Linux; Android 10; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36 |
 Google Pixel 4 XL | 412 | 869 | 3.5 | Mozilla/5.0 (Linux; Android 10; Pixel 4 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36 |
 Google Pixel 3 | 393 | 786 | 2.75 | Mozilla/5.0 (Linux; Android 9; Pixel 3 Build/PQ1A.181105.017.A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 |
@@ -161,16 +171,10 @@ Sony Xperia Z, Z1 | 360 | 640 | 3 | Mozilla/5.0 (Linux; U; Android 4.2; en-us; S
 
 ## How To Add Custom Device on Chrome Emulation ?
 
-### Video tutorial
-
-[![](images/custom-device-emulation-chrome.png)](https://www.youtube.com/watch?v=q-bRikpfGf0)
-
-<br />
-
 ### Step By Step tutorial
 - Open Chrome
-- Enter Shift + CTRL + I shortcut
-- Enter Shift + CTRL + M shortcut
+- Enter `Shift + CTRL + I` shortcut
+- Enter `Shift + CTRL + M` shortcut
 - Click "Dimentions"; Click "Edit" ...
 
 ![](images/step1.png)
